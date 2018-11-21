@@ -3,5 +3,8 @@ package com.baidu.haha;
 public class Haha {
     public static void main(String[] args) {
         System.out.println("hahahahahahha");
+        System.out.println("hahahahahahha");
+        System.out.println("hahahahahahha");
+
     }
 }
